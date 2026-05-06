@@ -7,9 +7,10 @@ customer-analytics-project/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_modeling.ipynb
+│   ├── 01_data_overview.ipynb
+│   ├── 02_data_processing.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_modeling.ipynb
 │
 ├── src/
 │   ├── data_preprocessing.py
