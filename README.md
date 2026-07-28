@@ -1,6 +1,5 @@
 # Customer Analytics & Churn Prediction Project
-
-https://github.com/ShijinPoem/Customer-Analytics-Sales-Intelligence-Olist-Dataset/blob/8ca956da85a159812572866694192a99b0fa6e33/Screen%20Shot%202026-05-08%20at%2015.45.41.png
+<img width="786" height="590" alt="Image" src="https://github.com/user-attachments/assets/fb20616b-479b-46cf-9865-4d7a96d89ac1" />
 
 ## Project Overview
 
