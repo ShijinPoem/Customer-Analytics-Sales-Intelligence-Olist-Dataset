@@ -1,5 +1,7 @@
 # Customer Analytics & Churn Prediction Project
 
+https://github.com/ShijinPoem/Customer-Analytics-Sales-Intelligence-Olist-Dataset/blob/8ca956da85a159812572866694192a99b0fa6e33/Screen%20Shot%202026-05-08%20at%2015.45.41.png
+
 ## Project Overview
 
 This project analyzes the Brazilian E-Commerce Public Dataset by Olist to uncover customer purchasing behavior, sales performance, delivery trends, and customer retention patterns.
